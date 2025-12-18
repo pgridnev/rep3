@@ -1,0 +1,100 @@
+{
+  "program": [
+    {
+      "op": "READ",
+      "arg": 100
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 200
+    },
+    {
+      "op": "STORE",
+      "arg": 0
+    },
+    {
+      "op": "READ",
+      "arg": 101
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 200
+    },
+    {
+      "op": "STORE",
+      "arg": 1
+    },
+    {
+      "op": "READ",
+      "arg": 102
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 200
+    },
+    {
+      "op": "STORE",
+      "arg": 2
+    },
+    {
+      "op": "READ",
+      "arg": 103
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 200
+    },
+    {
+      "op": "STORE",
+      "arg": 3
+    },
+    {
+      "op": "READ",
+      "arg": 104
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 200
+    },
+    {
+      "op": "STORE",
+      "arg": 4
+    },
+    {
+      "op": "READ",
+      "arg": 105
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 200
+    },
+    {
+      "op": "STORE",
+      "arg": 5
+    },
+    {
+      "op": "READ",
+      "arg": 106
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 200
+    },
+    {
+      "op": "STORE",
+      "arg": 6
+    },
+    {
+      "op": "READ",
+      "arg": 107
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 200
+    },
+    {
+      "op": "STORE",
+      "arg": 7
+    }
+  ]
+}
