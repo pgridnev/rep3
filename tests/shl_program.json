@@ -1,0 +1,20 @@
+{
+  "program": [
+    {
+      "op": "LOAD_CONST",
+      "arg": 300
+    },
+    {
+      "op": "SHL",
+      "arg": 5
+    },
+    {
+      "op": "LOAD_CONST",
+      "arg": 400
+    },
+    {
+      "op": "STORE",
+      "arg": 0
+    }
+  ]
+}
